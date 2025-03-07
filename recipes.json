@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Nasi Goreng",
+      "description": "Nasi goreng khas Indonesia dengan rasa gurih dan lezat.",
+      "ingredients": ["Nasi", "Telur", "Kecap", "Bawang", "Garam"],
+      "instructions": "Tumis bawang, masukkan telur, tambahkan nasi, aduk rata dengan kecap dan garam.",
+      "image": "images/nasi-goreng.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mie Goreng",
+      "description": "Mie goreng spesial dengan sayuran dan bumbu khas.",
+      "ingredients": ["Mie", "Telur", "Sawi", "Kecap", "Bawang"],
+      "instructions": "Rebus mie, tumis bawang, masukkan telur dan sawi, tambahkan mie dan kecap, aduk rata.",
+      "image": "images/mie-goreng.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ayam Goreng",
+      "description": "Ayam goreng renyah dengan bumbu khas.",
+      "ingredients": ["Ayam", "Bumbu", "Minyak Goreng"],
+      "instructions": "Marinasi ayam dengan bumbu, lalu goreng dalam minyak panas hingga kecoklatan.",
+      "image": "images/ayam-goreng.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Soto Ayam",
+      "description": "Soto ayam segar dengan kuah yang lezat.",
+      "ingredients": ["Ayam", "Bumbu Soto", "Soun", "Kol", "Jeruk Nipis"],
+      "instructions": "Rebus ayam dengan bumbu soto, tambahkan soun dan kol, sajikan dengan jeruk nipis.",
+      "image": "images/soto-ayam.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gado-Gado",
+      "description": "Salad sayur dengan saus kacang khas Indonesia.",
+      "ingredients": ["Sayuran", "Tahu", "Tempe", "Saus Kacang"],
+      "instructions": "Rebus sayuran, goreng tahu dan tempe, lalu siram dengan saus kacang.",
+      "image": "images/gado-gado.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bakso",
+      "description": "Bakso sapi kenyal dengan kuah gurih.",
+      "ingredients": ["Daging Sapi", "Tepung Tapioka", "Bumbu", "Kuah"],
+      "instructions": "Campur daging dengan tepung dan bumbu, bentuk bulatan, rebus dalam air mendidih, sajikan dengan kuah.",
+      "image": "images/bakso.jpg"
+    }
+]
